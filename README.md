@@ -1,6 +1,6 @@
 # React Native Todo App
 
-A simple Todo application built with React Native and Expo. The app features a clean, minimalist UI design with essential todo management capabilities.
+A simple Todo application built with React Native and Expo.
 
 ## Features
 
@@ -14,42 +14,17 @@ A simple Todo application built with React Native and Expo. The app features a c
 
 - React Native
 - Expo
-- React Navigation (Drawer, Stack, and Tab navigators)
-- AsyncStorage for local data persistence
+- React Navigation 
+- AsyncStorage
 
-## Getting Started
-
-### Prerequisites
-
-- Node.js
-- Expo CLI
-- npm or yarn
-
-### Installation
+## Installation
 
 1. Clone the repository
 ```
-git clone https://github.com/yourusername/react-native-todo-app.git
+https://github.com/Pranay44444/Todo-app.git
 ```
 
-2. Install dependencies
-```
-cd react-native-todo-app
-npm install
-```
-
-3. Start the app
+2. Start the app
 ```
 npx expo start
 ```
-
-## App Structure
-
-- **App.js**: Main navigation setup
-- **src/components**: Reusable UI components
-- **src/screens**: Screen components
-- **src/storage**: Data management and persistence
-
-## License
-
-This project is open source and available under the MIT License.
